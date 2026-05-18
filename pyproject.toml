@@ -3,6 +3,8 @@ name = "an-economic-history-of-american-railroads-the-engi"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "pydantic>=2.10.0",
+    "pytest>=8.0",
     "copulas>=0.14.1",
     "matplotlib>=3.10.9",
     "pandas>=2.3.3",
@@ -10,3 +12,7 @@ dependencies = [
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
