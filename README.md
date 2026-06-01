@@ -11,14 +11,7 @@ Unlike earlier transportation projects such as canals, railroads were largely pr
 
 The impact on capital markets was profound. In 1830, only 36 shares were traded on the New York Stock Exchange. By 1850, thanks to the public offering of railroad stocks, the stock market was flourishing. This investment boom allowed U.S. railroad companies to lay more miles of track by 1860 than the rest of the world combined, totaling over 30,000 miles of rail.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
